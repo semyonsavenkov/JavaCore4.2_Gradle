@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaCore4.2_Gradle.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaCore4.2_Gradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/JavaCore4.2_Gradle.api.iml" filepath="$PROJECT_DIR$/.idea/modules/api/JavaCore4.2_Gradle.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/JavaCore4.2_Gradle.api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api/JavaCore4.2_Gradle.api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/JavaCore4.2_Gradle.api.test.iml" filepath="$PROJECT_DIR$/.idea/modules/api/JavaCore4.2_Gradle.api.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/db/JavaCore4.2_Gradle.db.iml" filepath="$PROJECT_DIR$/.idea/modules/db/JavaCore4.2_Gradle.db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/db/JavaCore4.2_Gradle.db.main.iml" filepath="$PROJECT_DIR$/.idea/modules/db/JavaCore4.2_Gradle.db.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/db/JavaCore4.2_Gradle.db.test.iml" filepath="$PROJECT_DIR$/.idea/modules/db/JavaCore4.2_Gradle.db.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaCore4.2_Gradle.main.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaCore4.2_Gradle.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/JavaCore4.2_Gradle.service.iml" filepath="$PROJECT_DIR$/.idea/modules/service/JavaCore4.2_Gradle.service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/JavaCore4.2_Gradle.service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/service/JavaCore4.2_Gradle.service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/JavaCore4.2_Gradle.service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/service/JavaCore4.2_Gradle.service.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaCore4.2_Gradle.test.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaCore4.2_Gradle.test.iml" />
+    </modules>
+  </component>
+</project>
